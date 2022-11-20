@@ -18,8 +18,8 @@
 extern crate self as db_dump;
 
 mod bool;
-mod date;
 mod datetime;
+mod day;
 mod error;
 mod index;
 mod load;
